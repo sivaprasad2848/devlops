@@ -1,0 +1,8 @@
+Git Commands
+---------------------------
+git status - Is used for getting the status of git
+git add - Is used for adding new files to repo
+git commit -m "Our Message" - Is used for creating messages before a push
+git push - Is used for pushing the content to server
+git branch- 
+
